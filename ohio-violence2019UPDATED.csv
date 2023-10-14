@@ -1,0 +1,236 @@
+City,Population,County,Violent Crime,Property crime
+West Union,"3,153",Adams County,3,21
+Lima,"36,653",Allen County,259,"1,493"
+Ashland,"20,410",Ashland County,33,384
+Loudonville,"2,628",Ashland County,10,40
+Athens,"24,745",Athens County,16,398
+Glouster,"1,796",Athens County,3,34
+Nelsonville,"5,158",Athens County,9,183
+New Bremen,"2,977",Auglaize County,1,19
+Wapakoneta,"9,717",Auglaize County,2,137
+Barnesville,"4,020",Belmont County,1,12
+Bellaire,"4,039",Belmont County,12,30
+Bridgeport,"1,741",Belmont County,1,10
+Martins Ferry,"6,558",Belmont County,12,72
+Georgetown,"4,253",Brown County,6,85
+Mount Orab,"3,454",Brown County,6,50
+Ripley,"1,695",Brown County,4,13
+Fairfield,"42,620",Butler County,84,879
+Fairfield Township,"22,956",Butler County,21,507
+Hamilton,"62,155",Butler County,265,"2,228"
+Middletown,"48,878",Butler County,206,"1,459"
+Monroe,"16,531",Butler County,14,450
+Mechanicsburg,"1,579",Champaign County,1,18
+Urbana,"11,309",Champaign County,15,275
+Springfield,"59,128",Clark County,292,"2,992"
+Batavia,"1,680",Clermont County,3,35
+Bethel,"2,809",Clermont County,8,77
+Loveland,"13,245",Clermont County,16,73
+Milford,"6,880",Clermont County,12,134
+New Richmond,"2,700",Clermont County,6,26
+Williamsburg,"2,569",Clermont County,5,44
+Blanchester,"4,251",Clinton County,3,99
+Sabina,"2,544",Clinton County,5,86
+Wilmington,"12,391",Clinton County,26,651
+Columbiana,"6,209",Columbiana County,2,49
+East Liverpool,"10,653",Columbiana County,13,124
+East Palestine,"4,435",Columbiana County,8,69
+Salem,"11,644",Columbiana County,22,341
+Salineville,"1,219",Columbiana County,2,44
+Bucyrus,"11,712",Crawford County,25,287
+Bay Village,"15,235",Cuyahoga County,4,72
+Beachwood,"11,612",Cuyahoga County,7,438
+Bedford,"12,485",Cuyahoga County,19,157
+Berea,"18,573",Cuyahoga County,9,79
+Chagrin Falls,"3,941",Cuyahoga County,1,41
+Cleveland,"381,829",Cuyahoga County,"5,791","17,057"
+East Cleveland,"17,001",Cuyahoga County,97,369
+Euclid,"46,659",Cuyahoga County,243,"1,285"
+Fairview Park,"16,201",Cuyahoga County,7,142
+Gates Mills,"2,227",Cuyahoga County,0,4
+Lakewood,"49,802",Cuyahoga County,61,643
+Lyndhurst,"13,407",Cuyahoga County,14,139
+North Olmsted,"31,421",Cuyahoga County,8,389
+North Royalton,"30,177",Cuyahoga County,17,119
+Olmsted Falls,"8,861",Cuyahoga County,4,18
+Parma,"78,322",Cuyahoga County,112,759
+Pepper Pike,"6,371",Cuyahoga County,5,28
+Richmond Heights,"10,346",Cuyahoga County,32,168
+Seven Hills,"11,621",Cuyahoga County,7,37
+Solon,"22,830",Cuyahoga County,11,217
+South Euclid,"21,351",Cuyahoga County,27,583
+Strongsville,"44,814",Cuyahoga County,18,585
+University Heights,"12,852",Cuyahoga County,19,237
+Arcanum,"2,006",Darke County,0,9
+Defiance,"16,601",Defiance County,22,225
+Delaware,"40,616",Delaware County,60,477
+Westerville,"40,903",Delaware County,74,767
+Huron,"6,863",Erie County,6,98
+Sandusky,"24,572",Erie County,74,925
+Vermilion,"10,420",Erie County,2,91
+Lancaster,"40,622",Fairfield County,110,"1,540"
+Pickerington,"21,590",Fairfield County,29,222
+Washington Court House,"14,150",Fayette County,39,504
+Bexley,"13,956",Franklin County,12,300
+Dublin,"49,626",Franklin County,26,429
+Gahanna,"35,847",Franklin County,44,719
+Grove City,"42,423",Franklin County,41,"1,193"
+Groveport,"5,679",Franklin County,10,104
+Hilliard,"37,578",Franklin County,26,242
+New Albany,"11,332",Franklin County,4,112
+Powell,"13,545",Franklin County,2,84
+Reynoldsburg,"38,578",Franklin County,73,988
+Upper Arlington,"35,754",Franklin County,12,366
+Whitehall,"19,121",Franklin County,114,"1,102"
+Worthington,"14,875",Franklin County,10,236
+Archbold,"4,320",Fulton County,5,80
+Fayette,"1,242",Fulton County,1,13
+Swanton,"3,857",Fulton County,2,36
+Wauseon,"7,428",Fulton County,14,142
+Gallipolis,"3,553",Gallia County,8,243
+Rio Grande,766,Gallia County,2,10
+Chardon,"5,183",Geauga County,9,94
+Beavercreek,"47,672",Greene County,33,"1,193"
+Bellbrook,"7,326",Greene County,0,36
+Fairborn,"33,726",Greene County,88,627
+Jamestown,"2,136",Greene County,5,51
+Xenia,"26,926",Greene County,74,676
+Yellow Springs,"3,727",Greene County,7,94
+Cleves,"3,443",Hamilton County,2,31
+Harrison,"11,837",Hamilton County,6,108
+Lockland,"3,455",Hamilton County,24,97
+North College Hill,"9,271",Hamilton County,31,252
+Reading,"10,995",Hamilton County,20,261
+Wyoming,"8,596",Hamilton County,2,121
+Findlay,"41,350",Hancock County,106,902
+Kenton,"8,198",Hardin County,22,263
+Napoleon,"8,188",Henry County,23,186
+Greenfield,"4,544",Highland County,14,85
+Hillsboro,"6,518",Highland County,11,113
+Logan,"7,039",Hocking County,24,433
+Monroeville,"1,356",Huron County,3,18
+Norwalk,"16,903",Huron County,15,262
+Willard,"6,021",Huron County,3,144
+Jackson,"6,222",Jackson County,6,193
+Wellston,"5,488",Jackson County,13,194
+Mingo Junction,"3,202",Jefferson County,44,43
+Steubenville,"17,768",Jefferson County,33,803
+Toronto,"4,919",Jefferson County,9,13
+Wintersville,"3,665",Jefferson County,6,46
+Fredericktown,"2,517",Knox County,5,20
+Mount Vernon,"16,663",Knox County,27,315
+Eastlake,"18,074",Lake County,12,327
+Kirtland,"6,823",Lake County,6,21
+Mentor,"47,289",Lake County,63,703
+Wickliffe,"12,758",Lake County,16,174
+Willoughby,"23,081",Lake County,19,321
+Ironton,"10,576",Lawrence County,19,191
+Granville,"5,917",Licking County,5,27
+Heath,"10,933",Licking County,24,461
+Johnstown,"5,119",Licking County,0,26
+Newark,"50,340",Licking County,149,"1,676"
+Utica,"2,253",Licking County,2,18
+Bellefontaine,"13,145",Logan County,25,202
+Amherst,"12,166",Lorain County,4,147
+Elyria,"53,806",Lorain County,137,921
+Grafton,"5,808",Lorain County,2,14
+Lorain,"64,022",Lorain County,289,"1,437"
+North Ridgeville,"34,469",Lorain County,13,112
+Oberlin,"8,302",Lorain County,16,172
+Sheffield Lake,"8,939",Lorain County,6,70
+Maumee,"13,656",Lucas County,14,361
+Oregon,"19,868",Lucas County,45,645
+Sylvania,"19,046",Lucas County,13,166
+Waterville,"5,518",Lucas County,3,28
+Whitehouse,"4,887",Lucas County,2,9
+London,"10,320",Madison County,26,216
+Campbell,"7,815",Mahoning County,9,53
+Canfield,"7,199",Mahoning County,0,47
+Sebring,"4,200",Mahoning County,5,94
+Struthers,"10,148",Mahoning County,18,152
+Brunswick,"34,977",Medina County,17,189
+Wadsworth,"24,058",Medina County,15,413
+Middleport,"2,434",Meigs County,0,13
+Covington,"2,694",Miami County,0,10
+Troy,"26,250",Miami County,23,433
+Centerville,"23,744",Montgomery County,15,285
+Clayton,"13,221",Montgomery County,2,83
+Dayton,"140,427",Montgomery County,"1,351","5,673"
+Englewood,"13,478",Montgomery County,16,367
+Germantown,"5,500",Montgomery County,11,71
+Huber Heights,"38,183",Montgomery County,76,890
+Kettering,"54,974",Montgomery County,56,794
+Miamisburg,"19,913",Montgomery County,40,264
+New Lebanon,"4,001",Montgomery County,3,54
+Trotwood,"24,435",Montgomery County,133,659
+McConnelsville,"1,760",Morgan County,0,17
+Cardington,"2,056",Morrow County,2,15
+Frazeysburg,"1,309",Muskingum County,3,9
+Zanesville,"25,346",Muskingum County,89,"1,071"
+Oak Harbor,"2,728",Ottawa County,1,25
+Port Clinton,"5,914",Ottawa County,15,109
+New Lexington,"4,654",Perry County,16,114
+Somerset,"1,456",Perry County,0,15
+Ashville,"4,331",Pickaway County,4,53
+Circleville,"14,025",Pickaway County,47,609
+South Bloomfield,"1,997",Pickaway County,5,29
+Waverly,"4,253",Pike County,6,90
+Aurora,"16,319",Portage County,1,128
+Kent,"29,761",Portage County,30,393
+Streetsboro,"16,561",Portage County,20,227
+Windham,"2,210",Portage County,4,16
+Eaton,"8,136",Preble County,6,213
+Ottawa,"4,317",Putnam County,1,8
+Bellville,"1,895",Richland County,1,15
+Lexington,"4,666",Richland County,0,5
+Mansfield,"46,418",Richland County,187,"1,996"
+Ontario,"6,067",Richland County,7,246
+Shelby,"8,997",Richland County,16,231
+Chillicothe,"21,670",Ross County,103,"1,575"
+Clyde,"6,147",Sandusky County,3,66
+New Boston,"2,093",Scioto County,18,302
+Tiffin,"17,498",Seneca County,9,354
+Sidney,"20,437",Shelby County,39,631
+Canal Fulton,"5,450",Stark County,7,52
+Canton,"70,139",Stark County,981,"3,712"
+Hartville,"3,068",Stark County,0,32
+Louisville,"9,329",Stark County,6,78
+Massillon,"32,433",Stark County,72,743
+Navarre,"1,846",Stark County,7,15
+North Canton,"17,251",Stark County,15,234
+Barberton,"26,015",Summit County,69,689
+Cuyahoga Falls,"49,236",Summit County,50,980
+Hudson,"22,286",Summit County,6,117
+Munroe Falls,"5,080",Summit County,0,23
+Northfield,"3,670",Summit County,5,29
+Norton,"12,007",Summit County,18,190
+Peninsula,558,Summit County,0,9
+Stow,"34,862",Summit County,15,537
+Tallmadge,"17,583",Summit County,12,239
+Twinsburg,"19,103",Summit County,17,92
+Uniontown,"3,353",Summit County,1,67
+Cortland,"6,769",Trumbull County,3,46
+Newton Falls,"4,481",Trumbull County,11,47
+Niles,"18,222",Trumbull County,70,465
+Warren,"38,012",Trumbull County,212,"1,478"
+Dennison,"2,596",Tuscarawas County,0,8
+Dover,"12,741",Tuscarawas County,14,77
+New Philadelphia,"17,434",Tuscarawas County,8,242
+Strasburg,"2,691",Tuscarawas County,1,11
+Uhrichsville,"5,317",Tuscarawas County,9,53
+Marysville,"24,544",Union County,14,351
+Van Wert,"10,662",Van Wert County,23,336
+Franklin,"11,675",Warren County,34,501
+Mason,"33,939",Warren County,10,218
+Springboro,"18,975",Warren County,1,66
+Belpre,"6,386",Washington County,4,105
+Marietta,"13,547",Washington County,17,192
+Orrville,"8,461",Wayne County,21,78
+Wooster,"26,615",Wayne County,110,738
+Montpelier,"3,932",Williams County,11,137
+Pioneer,"1,395",Williams County,1,40
+Bowling Green,"31,719",Wood County,37,547
+North Baltimore,"3,557",Wood County,3,14
+Northwood,"5,445",Wood County,12,107
+Perrysburg,"21,672",Wood County,3,123
+Upper Sandusky,"6,467",Wyandot County,15,123
